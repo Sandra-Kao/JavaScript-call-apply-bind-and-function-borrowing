@@ -7,15 +7,15 @@ https://codepen.io/K-SY/pen/jOyeRQg
 
 ## Function props
 
-# function().bind()
+# Function.prototype.bind()
 
 ```//bind => Make a copy of the function```
 
-# function().call()
+# Function.prototype.call()
 
 ```//call => Execute the function directly```
 
-# function().apply()
+# Function.prototype.apply()
 
 ```//apply => Execute the function directly, BUT input the argumants as a arr[]```
 
